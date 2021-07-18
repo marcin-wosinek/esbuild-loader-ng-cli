@@ -1,3 +1,9 @@
+# Benchmark repo
+
+This repo was used as a benchmark in
+https://how-to.dev/how-to-speed-up-angular-cli-app-with-esbuild. To learn more,
+check out the article
+
 # EsbuildLoaderNgCli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
